@@ -6,7 +6,7 @@ Source material for public presentations given by me.
 
 **ABP Community Talks 2023.1: LeptonX Customization**
 
-The event is scheduled on February 16, 2023. You can register [here](https://kommunity.com/volosoft/events/abp-community-talks-20231-leptonx-customization-03f9fd8c).
+- The event is scheduled on February 16, 2023. You can register [here](https://kommunity.com/volosoft/events/abp-community-talks-20231-leptonx-customization-03f9fd8c).
 
 ## 2022
 
