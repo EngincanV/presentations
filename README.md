@@ -6,7 +6,8 @@ Source material for public presentations given by me.
 
 **ABP Community Talks 2023.7: Build Your Own CMS with .NET**
 
-> The event is scheduled on September 28, 2023. You can register [here](https://kommunity.com/volosoft/events).
+* 📜 Slides (Currently preparing...)
+* The event is scheduled for September 28, 2023. You can register [here](https://kommunity.com/volosoft/events/abp-community-talks-20237-build-your-content-management-system-with-net-8a44b48a).
 
 **ABP Community Talks 2023.1: LeptonX Customization**
 
