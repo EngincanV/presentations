@@ -7,7 +7,7 @@ Source material for public presentations given by me.
 ### ABP Community Talks 2023.8: What’s coming with .NET 8.0 & ABP v8.0 (Online)
 
 * [📆 November 23, 2023 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20238-whats-coming-with-net-80-abp-v80-a196d644)
-* 📜 Slides (Currently preparing...)
+* [📜 Slides](ABP/Community-Talks-2023.8)
 * The event is scheduled for November 23, 2023. You can register [here](https://kommunity.com/volosoft/events/abp-community-talks-20238-whats-coming-with-net-80-abp-v80-a196d644).
 
 ### ABP Community Talks 2023.7: Build Your Own CMS with .NET (Online) 
