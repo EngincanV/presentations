@@ -7,8 +7,8 @@ Source material for public presentations given by me.
 ### Explore the potential of code generation: ABP Suite (Online)
 
 * [📆 January 18, 2024 / Details](https://kommunity.com/volosoft/events/explore-the-potential-of-code-generation-abp-suite-98ab11e9)
-* 📜 Slides (Currently preparing...)
-* The event is scheduled for January 18, 2024. You can register [here](https://kommunity.com/volosoft/events/explore-the-potential-of-code-generation-abp-suite-98ab11e9).
+* [🖥️ Demo Presentation](https://www.youtube.com/watch?v=t0aWk5HMoDs)
+* [📹 Recording](https://www.youtube.com/watch?v=0CJxCfhAyiA)
 
 ## 2023 
 
