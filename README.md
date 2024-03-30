@@ -4,6 +4,12 @@ Source material for public presentations given by me.
 
 ## 2024
 
+### ABP Dotnet Conf'24 - Sentiment Analysis in .NET (Online)
+
+* [📆 May 9, 2024 / Details](https://abp.io/conference/2024)
+* 📜 Slides (Currently preparing...)
+* The event is scheduled for May 9, 2024. You can buy a ticket from [here](https://abp.io/conference/2024).
+
 ### Explore the potential of code generation: ABP Suite (Online)
 
 * [📆 January 18, 2024 / Details](https://kommunity.com/volosoft/events/explore-the-potential-of-code-generation-abp-suite-98ab11e9)
