@@ -1,6 +1,8 @@
 # Presentations
 
-Source material for public presentations given by me.
+Source material for public presentations given by me. 
+
+> You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
 
 ## 2024
 
