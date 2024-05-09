@@ -11,7 +11,6 @@ Source material for public presentations given by me.
 * [📆 May 9, 2024 / Details](https://abp.io/conference/2024)
 * [📜 Slides](ABP/Dotnet-Conf-2024)
 * [👨‍💻 Demo](https://github.com/EngincanV/SentimentAnalysisDemo)
-* The event is scheduled for May 9, 2024. You can buy a ticket from [here](https://abp.io/conference/2024).
 
 ### Explore the potential of code generation: ABP Suite (Online)
 
