@@ -8,8 +8,9 @@ Source material for public presentations given by me.
 
 ### ABP Community Talks 2024.2: .NET & AI (Online)
 
-* 📆 June 27, 2024 - [ Register Now !](https://kommunity.com/volosoft/events/abp-community-talks-20242-net-ai-c6530dfc)
+* [📆 June 27, 2024 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20242-net-ai-c6530dfc)
 * [📜 Slides](ABP/Community-Talks-2024.2)
+* [📹 Recording](https://www.youtube.com/watch?v=JiykJsLd12E)
 
 ### ABP Dotnet Conf'24 - Sentiment Analysis in .NET (Online)
 
