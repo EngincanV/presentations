@@ -6,6 +6,17 @@ Source material for public presentations given by me.
 
 ## 2024
 
+### Hello Talks 2024: Sentiment Analysis in .NET (In Person) (Turkish 🇹🇷)
+
+* [📆 November 23, 2024 / Details](https://kommunity.com/devnot/events/hello-talks-2024-84b69837)
+* 📜 Slides (currently preparing...)
+
+### ABP Community Talks 2024.7: What’s New with .NET 9 & ABP 9? (Online)
+
+* [📆 November 21, 2024 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20247-whats-new-with-net-9-abp-9-3235099f)
+* 📜 Slides (currently preparing...)
+* 📹 Recording (not shared yet...)
+
 ### ABP Community Talks 2024.2: .NET & AI (Online)
 
 * [📆 June 27, 2024 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20242-net-ai-c6530dfc)
