@@ -2,11 +2,11 @@
 
 Source material for public presentations (online or in-person) given by me. 
 
-> You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
+You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
 
 ## 2024
 
-So far, in 2024, I participated as a speaker in **four online** ABP Community Talks and **one in-person** event. Here are the details:
+> ℹ️ **So far, in 2024, I participated as a speaker in **four online** ABP Community Talks and **one in-person** event. Here are the details:**
 
 ### Hello Talks 2024: Sentiment Analysis in .NET (In Person) (Turkish 🇹🇷)
 
@@ -44,7 +44,7 @@ Soon...
 
 ## 2023 
 
-In 2023, I participated as a speaker in **three online** ABP Community Talks. Here are the details:
+> ℹ️ **In 2023, I participated as a speaker in **three online** ABP Community Talks. Here are the details:**
 
 ### ABP Community Talks 2023.8: What’s coming with .NET 8.0 & ABP v8.0 (Online)
 
@@ -66,7 +66,7 @@ In 2023, I participated as a speaker in **three online** ABP Community Talks. He
 
 ## 2022
 
-In 2022, I participated as a speaker in **two online** ABP Community Talks. Here are the details:
+> ℹ️ **In 2022, I participated as a speaker in **two online** ABP Community Talks. Here are the details:**
 
 ### ABP Community Talks 2022.9: .NET 7.0 & ABP 7.0 (Online)
 
