@@ -1,20 +1,26 @@
 # Presentations
 
-Source material for public presentations given by me. 
+Source material for public presentations (online or in-person) given by me. 
 
 > You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
 
 ## 2024
 
+So far, in 2024, I participated as a speaker in **four online** ABP Community Talks and **one in-person** event. Here are the details:
+
 ### Hello Talks 2024: Sentiment Analysis in .NET (In Person) (Turkish 🇹🇷)
 
+Soon...
+
 * [📆 November 23, 2024 / Details](https://kommunity.com/devnot/events/hello-talks-2024-84b69837)
-* 📜 Slides (currently preparing...)
+* [📜 Slides](Hello-Talks/Sentiment-Analysis-in-Dotnet)
 
 ### ABP Community Talks 2024.7: What’s New with .NET 9 & ABP 9? (Online)
 
+Soon...
+
 * [📆 November 21, 2024 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20247-whats-new-with-net-9-abp-9-3235099f)
-* 📜 Slides (currently preparing...)
+* [📜 Slides](ABP/Community-Talks-2024.7)
 * 📹 Recording (not shared yet...)
 
 ### ABP Community Talks 2024.2: .NET & AI (Online)
@@ -38,6 +44,8 @@ Source material for public presentations given by me.
 
 ## 2023 
 
+In 2023, I participated as a speaker in **three online** ABP Community Talks. Here are the details:
+
 ### ABP Community Talks 2023.8: What’s coming with .NET 8.0 & ABP v8.0 (Online)
 
 * [📆 November 23, 2023 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20238-whats-coming-with-net-80-abp-v80-a196d644)
@@ -57,6 +65,8 @@ Source material for public presentations given by me.
 * [📹 Recording](https://www.youtube.com/watch?v=R9CqTtn6Wcg)
 
 ## 2022
+
+In 2022, I participated as a speaker in **two online** ABP Community Talks. Here are the details:
 
 ### ABP Community Talks 2022.9: .NET 7.0 & ABP 7.0 (Online)
 
