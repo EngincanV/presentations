@@ -16,8 +16,7 @@ Source material for public presentations (online or in-person) given by me. You 
 
 * [📆 November 21, 2024 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20247-whats-new-with-net-9-abp-9-3235099f)
 * [📜 Slides](ABP/Community-Talks-2024.7)
-* 📹 Recording (not shared yet...)
-* Soon...
+* [📹 Recording](https://www.youtube.com/watch?v=gWsf2TP0OJI)
 
 #### ABP Community Talks 2024.2: .NET & AI (Online)
 
