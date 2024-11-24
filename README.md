@@ -10,7 +10,6 @@ Source material for public presentations (online or in-person) given by me. You 
 
 * [📆 November 23, 2024 / Details](https://kommunity.com/devnot/events/hello-talks-2024-84b69837)
 * [📜 Slides](Hello-Talks/Sentiment-Analysis-in-Dotnet)
-* Soon...
 
 #### ABP Community Talks 2024.7: What’s New with .NET 9 & ABP 9? (Online)
 
