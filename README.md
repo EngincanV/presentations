@@ -1,10 +1,19 @@
 # Presentations
 
-Source material for public presentations (online or in-person) given by me. You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
+Source material for public presentations (online or in-person) given by me. 
+
+You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
+
+## 2025
+
+#### ABP Community Talks 2025.03: Deep Dive #1: Identity & Account Modules (Online)
+
+* [📆 April 17, 2025 / Details](https://kommunity.com/volosoft/events/abp-community-talks-202503-deep-dive-1-identityaccount-modules-d886ac4f)
+* **📜 Slides** (currently preparing...)
 
 ## 2024
 
-> ℹ️ **So far, in 2024, I have participated as a speaker in **four online** ABP Community Talks and **one in-person** event. Here are the details:**
+> ℹ️ **In 2024, I have participated as a speaker in **four online** ABP Community Talks and **one in-person** event. Here are the details:**
 
 #### Hello Talks 2024: Sentiment Analysis in .NET (In Person) (Turkish 🇹🇷)
 
