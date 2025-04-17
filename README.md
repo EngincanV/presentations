@@ -6,7 +6,7 @@ You can visit [my sessionize profile from here](https://sessionize.com/engincan-
 
 ## 2025
 
-#### ABP Community Talks 2025.03: Deep Dive #1: Identity & Account Modules (Online)
+#### ABP Community Talks 2025.03: Deep Dive #1 / Identity & Account Modules (Online)
 
 * [📆 April 17, 2025 / Details](https://kommunity.com/volosoft/events/abp-community-talks-202503-deep-dive-1-identityaccount-modules-d886ac4f)
 * [📜 Slides](ABP/Community-Talks-2025.3)
