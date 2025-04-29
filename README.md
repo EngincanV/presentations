@@ -4,18 +4,13 @@ Source material for public presentations (online or in-person) given by me.
 
 You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
 
-<details>
-  <summary>
-    <h2>2025</h2>
-  </summary>
+## 2025
 
-  #### ABP Community Talks 2025.03: Deep Dive #1 / Identity & Account Modules (Online)
+#### ABP Community Talks 2025.03: Deep Dive #1 / Identity & Account Modules (Online)
 
-  * [📆 April 17, 2025 / Details](https://kommunity.com/volosoft/events/abp-community-talks-202503-deep-dive-1-identityaccount-modules-d886ac4f)
-  * [📜 Slides](ABP/Community-Talks-2025.3)
-  * [📹 Recording](https://www.youtube.com/live/B-by0zWgVI0)  
-  
-</details>
+* [📆 April 17, 2025 / Details](https://kommunity.com/volosoft/events/abp-community-talks-202503-deep-dive-1-identityaccount-modules-d886ac4f)
+* [📜 Slides](ABP/Community-Talks-2025.3)
+* [📹 Recording](https://www.youtube.com/live/B-by0zWgVI0)  
 
 ## 2024
 
