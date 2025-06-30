@@ -6,7 +6,12 @@ You can visit [my sessionize profile from here](https://sessionize.com/engincan-
 
 ## 2025
 
-#### ABP Community Talks 25.04: Structuring ASP.NET Core Projects: Layered Architecture
+#### ABP Community Talks 2025.05: Empower Elsa Workflows with AI in .NET + ABP Framework (Online)
+
+* [📆 June 26, 2025 / Details](https://kommunity.com/volosoft/events/abp-community-talks-202505empower-elsa-workflows-with-ai-in-netabp-framework-3965dd32)
+* [📹 Recording](https://www.youtube.com/watch?v=fBPfbZwONKI)
+
+#### ABP Community Talks 25.04: Structuring ASP.NET Core Projects: Layered Architecture (Online)
 
 * [📆 May 15, 2025 / Details](https://kommunity.com/volosoft/events/abp-community-talks-2504structuring-aspnet-core-projectslayered-architecture-4ab4bc21)
 * [📹 Recording](https://www.youtube.com/watch?v=bqsxaBIrcsQ)
