@@ -6,6 +6,14 @@ You can visit [my sessionize profile from here](https://sessionize.com/engincan-
 
 ## 2025
 
+> ℹ️ **In 2025, I have participated as a speaker in **four online** ABP Community Talks, so far. Here are the details:**
+
+#### ABP Community Talks 2025.09: What’s new with .NET 10 & ABP 10?
+
+* [📆 November 20, 2025 / Details](https://kommunity.com/volosoft/events/whats-new-with-net-10-abp-10-1fe26108)
+* [📜 Slides](ABP/Community-Talks-2025.9)
+* [📹 Recording](https://www.youtube.com/watch?v=lzwBxFQRM5U)
+
 #### ABP Community Talks 2025.05: Empower Elsa Workflows with AI in .NET + ABP Framework (Online)
 
 * [📆 June 26, 2025 / Details](https://kommunity.com/volosoft/events/abp-community-talks-202505empower-elsa-workflows-with-ai-in-netabp-framework-3965dd32)
@@ -24,7 +32,7 @@ You can visit [my sessionize profile from here](https://sessionize.com/engincan-
 
 ## 2024
 
-> ℹ️ **In 2024, I have participated as a speaker in **four online** ABP Community Talks and **one in-person** event. Here are the details:**
+> ℹ️ **In 2024, I participated as a speaker in **four online** ABP Community Talks and **one in-person** event. Here are the details:**
 
 #### Hello Talks 2024: Sentiment Analysis in .NET (In Person) (Turkish 🇹🇷)
 
