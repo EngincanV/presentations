@@ -6,7 +6,13 @@ You can visit [my sessionize profile from here](https://sessionize.com/engincan-
 
 ## 2025
 
-> ℹ️ **In 2025, I have participated as a speaker in **four online** ABP Community Talks, so far. Here are the details:**
+> ℹ️ **In 2025, I have participated as a speaker in **five online** ABP Community Talks, so far. Here are the details:**
+
+#### ABP Community Talks 2025.10: AI-Powered .NET Apps with ABP & Microsoft Agent Framework
+
+* [📆 December 18, 2025 / Details](https://kommunity.com/volosoft/events/community-talks-202510-ai-powered-net-apps-with-abpmicrosoft-agent-framework-bb6e4d3e)
+* [📜 Slides](ABP/Community-Talks-2025.10)
+* [📹 Recording](https://www.youtube.com/live/tEcd2H6yXQk)
 
 #### ABP Community Talks 2025.09: What’s new with .NET 10 & ABP 10?
 
