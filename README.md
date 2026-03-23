@@ -4,6 +4,13 @@ Source material for public presentations (online or in-person) given by me.
 
 You can visit [my sessionize profile from here](https://sessionize.com/engincan-veske/) and contact with for talk invitations via [email](mailto:enginveske@gmail.com).
 
+## 2026
+
+#### ABP Community Talks 2026.02: RAG, MCP & OpenAI Endpoints in ABP
+
+* [📆 March 26, 2026 / Details](https://kommunity.com/volosoft/events/abp-community-talks-202602-rag-mcp-openai-endpoints-in-abp-9c7f6d69)
+* [📜 Slides](ABP/Community-Talks-2026.2)
+
 ## 2025
 
 > ℹ️ **In 2025, I have participated as a speaker in **five online** ABP Community Talks, so far. Here are the details:**
