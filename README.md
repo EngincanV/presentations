@@ -10,6 +10,7 @@ You can visit [my sessionize profile from here](https://sessionize.com/engincan-
 
 * [📆 March 26, 2026 / Details](https://kommunity.com/volosoft/events/abp-community-talks-202602-rag-mcp-openai-endpoints-in-abp-9c7f6d69)
 * [📜 Slides](ABP/Community-Talks-2026.2)
+* [📹 Recording](https://www.youtube.com/watch?v=aO4qsaKfUT8)
 
 ## 2025
 
