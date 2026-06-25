@@ -9,7 +9,8 @@ You can visit [my sessionize profile from here](https://sessionize.com/engincan-
 #### ABP Community Talks 2026.04: State of ABP: How the Platform Is Evolving in the AI
 
 * [📆 June 25, 2026 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20264-state-of-abp-how-the-platform-is-evolving-in-the-ai-71912ab8)
-* [📜 Slides](ABP/Community-Talks-2026.4): currently preparing...
+* [📜 Slides](ABP/Community-Talks-2026.4)
+* [📹 Recording](https://www.youtube.com/watch?v=UZtqknwiogA)
 
 #### ABP Community Talks 2026.02: RAG, MCP & OpenAI Endpoints in ABP
 
