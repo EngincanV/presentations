@@ -6,6 +6,11 @@ You can visit [my sessionize profile from here](https://sessionize.com/engincan-
 
 ## 2026
 
+#### Volobox Ile Tanışın: AI Agent'lar Artık Ekibinizin Parçası (Turkish)
+
+* [📆 October 22, 2026 / Details](https://kommunity.com/volosoft/events/volobox-ile-tanisin-ai-agentlar-artik-ekibinizin-parcasi-566e6127)
+* [📹 Recording](https://youtube.com/live/Sw5vkvbfisk)
+
 #### ABP Community Talks 2026.04: State of ABP: How the Platform Is Evolving in the AI
 
 * [📆 June 25, 2026 / Details](https://kommunity.com/volosoft/events/abp-community-talks-20264-state-of-abp-how-the-platform-is-evolving-in-the-ai-71912ab8)
